@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties resolvtion concerning Hvll. With his determination concerning Sir John Hotham. : Wherein is declared how and in what manner he hath beseiged it and stopt all passages by sea and land, with intention to starve them. : Whereunto is annexed the copie of a letter sent from the Earle of Warwicke, intimating that he had taken a ship called the Lyon ..., and it is reported that the Lord Finch, ... is taken in that ship. : Likewise that he had received intelligence of a great fleet of Spaniards landed in Dunkirke, which were bound for England, but intercepted by the Hollanders.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02029</idno>
+            <idno type="STC">Wing C2746A</idno>
+            <idno type="STC">ESTC R173720</idno>
+            <idno type="EEBO-CITATION">49520856</idno>
+            <idno type="OCLC">ocm 49520856</idno>
+            <idno type="VID">174101</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02029)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174101)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2664:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties resolvtion concerning Hvll. With his determination concerning Sir John Hotham. : Wherein is declared how and in what manner he hath beseiged it and stopt all passages by sea and land, with intention to starve them. : Whereunto is annexed the copie of a letter sent from the Earle of Warwicke, intimating that he had taken a ship called the Lyon ..., and it is reported that the Lord Finch, ... is taken in that ship. : Likewise that he had received intelligence of a great fleet of Spaniards landed in Dunkirke, which were bound for England, but intercepted by the Hollanders.</title>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.F. for F.S.,</publisher>
+                  <pubPlace>July, 13. London, :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Ordered to be forthwith published and printed. Hen. Elsinge, Cler.D.C."</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finch of Fordwich, John Finch, --  Baron, 1584-1660.</term>
+               <term>Hull (England) --  History.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174101:1" rendition="simple:additions"/>
+            <p>The Kings Maieſties RESOLVTION CONCERNING HVLL. With his Determination concerning <hi>Sir John Hotham.</hi>
+            </p>
+            <p>Wherein is declared how and in what manner he hath beſieged it and ſtopt all paſſages by Sea and Land, with intention to ſtarve them.</p>
+            <p>
+               <hi>Whereunto is annexed</hi> The Copie of a Letter ſent from the Earle of <hi>Warwicke,</hi> intimating that he had taken a Ship called the <hi>Lyon,</hi> laden with all ſorts of Ammuni<g ref="char:EOLhyphen"/>tion, And it is reported that the Lord <hi>Finch,</hi> late Lord Keeper of the Great Seale of <hi>England</hi> is taken in that Ship.</p>
+            <p>Likewiſe that he had received intelligence of a great Fleet of Spaniards landed in <hi>Dunkirke,</hi> which were bound for <hi>England,</hi> but intercepted by the <hi>Hollanders.</hi>
+            </p>
+            <p>Ordered to be forthwith publiſhed and Printed. <hi>Hen. Elſinge, Cler. D.C.</hi>
+            </p>
+            <p>July, 13. LONDON, Printed by <hi>T. F.</hi> for <hi>F. S.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174101:2"/>
+            <pb facs="tcp:174101:2"/>
+            <head>The Kings Maieſties Reſoluti<g ref="char:EOLhyphen"/>on concerning <hi>Hull,</hi> and his deter<g ref="char:EOLhyphen"/>mination concerning Sir <hi>Iohn Hotham.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>N Saturday at Night newes was brought to the King that a Pinnace was ſent from the <hi>Queene,</hi> la<g ref="char:EOLhyphen"/>den with Money and Ammunition, which was intercepted at the mouth of <hi>Humber,</hi> by one of the Kings Ships, called the <hi>May-flower,</hi> but by the helpe of a <hi>Hull</hi> Pilot, ſhe got into a Creeke, and ſo eſca<g ref="char:EOLhyphen"/>ped.</p>
+            <p>His Majeſty having intelligence, on Sunday morning at foure of the Clocke. he ſent three Trumpeters into all parts of
+<pb facs="tcp:174101:3"/>the City, to ſummon 2. Troopes of Horſe which were under the Command of the Prince, which was ſent towards <hi>Hull,</hi> to protect the Ship from violence, after them was ſent 3000. Foote Souldiers which were billited in <hi>Yorke.</hi>
+            </p>
+            <p>Vpon Tueſday the Lord <hi>Digby</hi> came to the Court.</p>
+            <p>Wedneſday, the King went to <hi>Bever<g ref="char:EOLhyphen"/>ley,</hi> attended by three Lords, to ſee the Amunition that came from <hi>Holland,</hi> where he received intelligence that Sir <hi>Iohn. Ho<g ref="char:EOLhyphen"/>tham</hi> had ceaſed on all the Cattell and Sheepe within foure Miles, and that he had drowned the Country three miles round, in regard his Majeſty had reſolu'd to beſiege him in Hull.</p>
+            <p>Thurſday there was a great meeting of Light Horſe on <hi>Heworth</hi>-Moore, who was commanded to repaire towards Hull this day the King with a great power of Horſe and Foote, tooke his Journey towards Beverley, and hath beſieged <hi>Hull</hi> with 6000. Horſe and Foote, which
+<pb facs="tcp:174101:3"/>have intrencht themſelves about the Towne, Sir <hi>John Hotham</hi> made 40. ſhots in one night with his great Ordnance, againſt the Batteries which were ma<g ref="char:EOLhyphen"/>king by the Kings Forces, but none could reach or doe any execution.</p>
+            <p>Foure pieces of Ordnance are plan<g ref="char:EOLhyphen"/>ted on a Cliffe, neere the Towne of <hi>Paul,</hi> to binder all reliefe by water, al<g ref="char:EOLhyphen"/>ſo the Earle of <hi>Lindſey</hi> hath mounted Ordnance at <hi>Barton</hi> on Humber, to ſtop the paſſage on that ſide of the Towne, it is generally reported, that the King intends to ſtarve them, for he cauſed a Spring to be cut off, which runs to <hi>Hull,</hi> that it is feared they will want freſh water, for the Towne affords but little, and that not very good.</p>
+            <p>The Earle of <hi>Kingſtone</hi> proffers to lend the King a hundred Thouſand pounds, at foure pound in the hun<g ref="char:EOLhyphen"/>dred.</p>
+            <p>The People here within this City ſticke not to ſay, they hope to ſee Sir
+<pb facs="tcp:174101:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:174101:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:174101:5"/>
+               <hi>John Hotham</hi> hang'd, caſting out op<g ref="char:EOLhyphen"/>probrious Speeches againſt the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Alſo there was Newes brought to the Houſe by a Letter from the Earle of <hi>Warwicke,</hi> intimating that he had ta<g ref="char:EOLhyphen"/>ken the <hi>Lyon</hi> laden with Ammunition of all ſorts, and that Prince <hi>Robert</hi> was in her whom he had conveigh'd againe into Holland.</p>
+            <p>Alſo there was a Letter ſent to the Earle of <hi>Warwicke,</hi> certifying that Prince <hi>Maurice,</hi> Lord <hi>Denby,</hi> Captaine <hi>Oneale,</hi> Captaine <hi>Hide,</hi> Sir <hi>Lewes Dives,</hi> Colo<g ref="char:EOLhyphen"/>nell <hi>Wilſon,</hi> and divers other Gentle<g ref="char:EOLhyphen"/>men and Commanders ſent for out of <hi>Germany.</hi>
+            </p>
+            <p>Like wiſe a Report was made to the Parliament, of agreat Fleet of Spaniards which lay before Dunkirke, and it is thought that they are bound for <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> but the <hi>Hollander</hi> having intelli<g ref="char:EOLhyphen"/>gence, thereof, ſent out their Fleet, and ſurrounded them, that they cannot ſtir.</p>
+            <pb facs="tcp:174101:5"/>
+            <p>His Majeſty taking into conſiderati<g ref="char:EOLhyphen"/>on, the Government of his Navie Roy<g ref="char:EOLhyphen"/>all, his will and pleaſure was, That Sir <hi>John Pennington</hi> ſhould have the place of Admiralſhip reſigned unto him, being againſt his Majeſties will and pleaſure, that the Earle of <hi>Warwicke</hi> ſhould enjoy that place any longer, and to that end and purpoſe did ſend a Meſsage to the Earle of <hi>Warwicke</hi> to give up his place, and that hee ſhould obey his ſpeciall Command, which was, that hee ſhould reſigne his place to Sir <hi>Iohn Pennington,</hi> the ſaid Sir <hi>John</hi> being neere unto him, expecting the Receit thereof.</p>
+            <p>His Majeſty was likewiſe reſolved, that he ſhould not enjoy that place any longer, but that he ſhould obey His Command therein.</p>
+            <p>Theſe are the troubles and diſtractions which threaten an inundation of de<g ref="char:EOLhyphen"/>ſtruction, yea an almoſt unavoidable
+<pb facs="tcp:174101:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:174101:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:174101:7"/>ruine both to the King and Kingdome, theſe Forraigne preparations and do<g ref="char:EOLhyphen"/>meſticke diſtentions are almoſt growne to a Head, a civill Warre is begun in this Kingdome, and it is juſtly to be feared that it will in the end, produce a moſt dangerous and fatall effect.</p>
+            <p>God grant that the truth may pre<g ref="char:EOLhyphen"/>vaile, and get the upper hand, and that Peace may have a peaceable habit on in this diſtracted Kingdome.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Ordered that this be Printed, and publiſhed.</p>
+            <closer>
+               <signed>Hen. Elſing D.C.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174101:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
